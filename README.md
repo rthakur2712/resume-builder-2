@@ -1,2 +1,2 @@
-# resume-builder-2
-Resume builder creating afresh for deploying
+# Live preview
+https://rthakur2712.github.io/resume-builder-2/
